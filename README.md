@@ -1,16 +1,18 @@
-# Getting Started
-HFMC
+# Hamr (哈默尔-私家助理)
+## 背景
+打造免费家庭智能助理，帮助更好发展和管理，成就人类家庭的命运共同体。
+- 辅助收集家族信息（支持私有部署,不涉及隐私）
+- 提升家庭幸福感
+- 保留
 
-- infra
-- starter
-- tool
-- system
-- auth
 
 
 DDD:
 
 app:
+
 domain:
+
 infra:
+
 interfaces:
